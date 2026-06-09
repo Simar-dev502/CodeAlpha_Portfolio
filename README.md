@@ -6,8 +6,8 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed website link here
-
+🔗 https://personalportfoliowb.netlify.app/
+🔗 https://codealpha-portfolio-tawny-chi.vercel.app/
 ---
 
 # 📌 Overview
